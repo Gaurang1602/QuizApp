@@ -1,0 +1,30 @@
+Demo Questions
+
+  
+        question: "Who Developed Python?",
+        a: "Guido van Rossum",
+        b: "James Gosling",
+        c: "Bjarne Stroustrup",
+        d: "Brendan Eich",
+        correct: "a",
+
+        question: "What does  HTML Stands for?",
+        a: "Hyperloop Markup Language",
+        b: "Hyperloop Makedown Language",
+        c: "Hypertext Markup Language",
+        d: "Hypertext Machine Language",
+        correct: "c",
+
+        question: "When was Java developed?",
+        a: "1906",
+        b: "1996",
+        c: "1990",
+        d: "2000",
+        correct: "c",
+
+        question: "Which language is used to style webpage?",
+        a: "HTML",
+        b: "Java",
+        c: "Python",
+        d: "CSS",
+        correct: "d",
